@@ -1,0 +1,2 @@
+# Brazilian-catchments-dataset-CABRA
+CABra is a large-sample dataset for Brazilian catchments that includes long-term data (30 years) for 735 catchments in eight main catchment attribute classes (climate, streamflow, groundwater, geology, soil, topography, land-use and land-cover, and hydrologic disturbance). Here we present some analyzes of this dataset together with a set of models for flow and rainfall estimation for different forecast horizons.
